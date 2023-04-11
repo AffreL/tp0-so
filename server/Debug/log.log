@@ -1,0 +1,14 @@
+[INFO] 00:57:15:639 Servidor/(9190:9190): Servidor listo para recibir al cliente
+[INFO] 01:15:38:365 Servidor/(9642:9642): Servidor listo para recibir al cliente
+[INFO] 01:16:14:180 Servidor/(9642:9642): Se conecto un cliente!
+[INFO] 01:16:14:180 Servidor/(9642:9642): Me llego el mensaje BuenasTardes
+[ERROR] 01:16:18:056 Servidor/(9642:9642): el cliente se desconecto. Terminando servidor
+[INFO] 01:18:20:483 Servidor/(9828:9828): Servidor listo para recibir al cliente
+[INFO] 01:19:11:303 Servidor/(9828:9828): Se conecto un cliente!
+[INFO] 01:19:11:305 Servidor/(9828:9828): Me llego el mensaje BuenasTardes
+[INFO] 01:19:18:368 Servidor/(9828:9828): Me llegaron los siguientes valores:
+
+[INFO] 01:19:18:368 Servidor/(9828:9828): Hola
+[INFO] 01:19:18:368 Servidor/(9828:9828): Como
+[INFO] 01:19:18:369 Servidor/(9828:9828): Estas
+[ERROR] 01:19:18:369 Servidor/(9828:9828): el cliente se desconecto. Terminando servidor
